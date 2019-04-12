@@ -1,0 +1,22 @@
+{
+  "brand" : "Hopton 10k",
+  "logo" : "hopton10k.png",
+  "links" : [
+    {
+      "title" : "Home",
+      "href" : ""
+    },
+    {
+      "title" : "Info",
+      "href" : "#features"
+    },
+    {
+      "title" : "Enter",
+      "href" : "#pricing"
+    },
+    {
+      "title" : "Contact",
+      "href" : "#contact"
+    }
+  ]
+}

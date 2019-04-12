@@ -1,0 +1,32 @@
+{
+  "title" : "Enter now",
+  "description" : "Choose your options",
+  "content" : [
+    {
+      "title" : "Standard Entry",
+      "price" : "£15",
+      "features" : [
+        "Race entry",
+        "RFID Timing",
+        "Finisher's Medal"
+      ],
+      "button" : {
+        "text" : "Buy now",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Entry & Donation",
+      "price" : "£20",
+      "features" : [
+        "Standard Entry plus",
+        "£5 donation to",
+        "Hopton Primary"
+      ],
+      "button" : {
+        "text" : "Buy now",
+        "href" : "/#contact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title" : "Find out more",
+  "description" : "What your should know",
+  "members" : [
+    {
+      "name" : "Course map",
+      "description" : "Strava map",
+      "avatar" : "route-screen.png"
+    },
+    {
+      "name" : "Avatar 2",
+      "description" : "Content Writer",
+      "avatar" : "route-screen.png"
+    },
+    {
+      "name" : "Avatar 3",
+      "description" : "CEO",
+      "avatar" : "route-screen.png"
+    }
+  ]
+}
