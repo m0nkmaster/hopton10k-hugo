@@ -1,4 +1,4 @@
-baseURL = "http://hopton10k.run/"
+baseURL = "https://hopton10k.run/"
 languageCode = "en-gb"
 title = "Hopton 10k road and trail race, Yorkshire"
 # theme = "sodium"
@@ -25,10 +25,10 @@ paginate = 10
     url  = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Course"
-    url  = "/course/"
-    weight = 2
+# [[menu.main]]
+#     name = "Course"
+#     url  = "/course/"
+#     weight = 2
 
 [[menu.main]]
     name = "FAQ"
@@ -95,18 +95,18 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2019, Hopton 10k."
 
     # Format dates with Go's time formatting
     date_format = "1st Jan 2019"
 
-    logo = "images/hopton10k-rabbit.png"
-    logo_small = "images/hopton10k-rabbit.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    logo = "/images/hopton10k.png"
+    logo_small = "/images/hopton10k.png"
+    address = """<p><strong>Hopton 10k</strong>
+        <br>12 New Tanhouse
+        <br>Mirfield
+        <br>WF14 9BP
+        <br>West Yorkshire
         <br>
         <strong>Great Britain</strong>
       </p>
@@ -145,7 +145,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -173,7 +173,11 @@ paginate = 10
     title = "Our clients"
     subtitle = ""
 
+[params.routemap]
+    enable = true
+    routeid = "17818988"
+
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Latest News"
+    subtitle = ""

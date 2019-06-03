@@ -1,5 +1,5 @@
 ---
-title: "Hopton 10k - A road and trail race in Yorkshire"
+title: "Hopton 10k - A multi-terriain road and trail race in Hopton, West Yorkshire"
 date: 2019-09-02T12:00:00-05:00
 ---
 
