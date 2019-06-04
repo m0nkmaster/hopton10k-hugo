@@ -44,12 +44,6 @@ paginate = 10
 # Top bar social links menu
 
 [[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
     weight = 2
     name = "Facebook"
     url = "http://facebook.com"
@@ -64,7 +58,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:info@hopton10k.run"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -92,7 +86,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "info@hopton10k.run"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2019, Hopton 10k."
