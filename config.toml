@@ -150,8 +150,8 @@ paginate = 10
     enable = true
     icon = "fas fa-running"
     title = "Buy your ticket now"
-    subtitle = "Tickets are selling fast. Grab yours now."
-    link_url = "#enter"
+    subtitle = "Spaces are going fast. Grab yours now."
+    link_url = "https://racebest.com/races/k32qh"
     link_text = "Enter the race"
 
 [params.sponsors]
