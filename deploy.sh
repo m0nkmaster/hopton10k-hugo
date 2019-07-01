@@ -1,1 +1,1 @@
-hugo;cd public;git commit -am"Deploy script run";git push;cd ..;
+hugo;cd public;git add *;git commit -am"Deploy script run";git push;cd ..;
