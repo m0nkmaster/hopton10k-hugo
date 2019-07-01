@@ -44,5 +44,5 @@ You’ll get a fantastic, well organised race with a varied terrain, and a lovel
 Yes, there will be a water station at the half way point of the race and water available at the end.
 
 ### What if I need medical attention at the event?
-First+ Medical Solutions will be on site to deal with all medical matters. There will be a medical tent and emergency vehicle at the start/finish line. We do not suggest anyone runs if they are feeling unwell.
+First+ Medical Solutions will be on site to deal with all medical matters. There will be three medics on hand ensuring we have medical coverage across the whole route. There will be a fully equipped medical treatment centre at the start/finish line and emergency vehicle and mobile medic available. We do not suggest anyone runs if they are feeling unwell.
 
