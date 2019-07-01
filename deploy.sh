@@ -1,0 +1,1 @@
+hugo;cd public;git commit -am"Deploy script run";git push;cd ..;rm -rf public;
