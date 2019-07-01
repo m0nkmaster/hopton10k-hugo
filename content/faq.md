@@ -44,5 +44,7 @@ You’ll get a fantastic, well organised race with a varied terrain, and a lovel
 Yes, there will be a water station at the half way point of the race and water available at the end.
 
 ### What if I need medical attention at the event?
-First+ Medical Solutions will be on site to deal with all medical matters. There will be three medics on hand ensuring we have medical coverage across the whole route. There will be a fully equipped medical treatment centre at the start/finish line and emergency vehicle and mobile medic available. We do not suggest anyone runs if they are feeling unwell.
+First+ Medical Solutions will be on site to deal with all medical matters. There will be three medics on hand ensuring we have medical coverage across the whole route. There will be a fully equipped medical treatment centre at the start/finish line and emergency vehicle and mobile medic available. We do not suggest anyone runs if they are feeling unwell. Please declare any known/pre-existing medical conditions when you register for the race and display this information clearly on your race number before you run. 
 
+### Can I help if I am not running the race?
+Yes please! Our race relies on volunteers acting as stewards and giving out drinks and goody bags. If you’re not running it’s a great way to ensure the event is a success. To find out more please email info@hopton10k.run
