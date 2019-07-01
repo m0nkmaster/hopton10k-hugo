@@ -94,8 +94,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "1st Jan 2019"
 
-    logo = "/images/hopton10k.png"
-    logo_small = "/images/hopton10k.png"
+    logo = "/images/logos/hoptonlogotext.png"
+    logo_small = "/images/logos/hoptonlogotext.png"
     address = """<p><strong>Hopton 10k</strong>
         <br>12 New Tanhouse
         <br>Mirfield
