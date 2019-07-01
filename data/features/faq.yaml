@@ -1,4 +1,4 @@
 weight: 2
 name: "Have a question?"
 icon: "fa fa-question"
-description: "If you want to know more don't hesitate to get in touch at info@hopton10k.run"
+description: "If you want to know more don't hesitate to <a href='mailto:info@hopton10k.run'>get in touch.</a>"
