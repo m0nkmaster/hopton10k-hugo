@@ -96,15 +96,15 @@ paginate = 10
 
     logo = "/images/logos/hoptonlogotext.png"
     logo_small = "/images/logos/hoptonlogotext.png"
-    address = """<p><strong>Hopton 10k</strong>
-        <br>12 New Tanhouse
-        <br>Mirfield
-        <br>WF14 9BP
-        <br>West Yorkshire
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
+    # address = """<p><strong>Hopton 10k</strong>
+    #     <br>12 New Tanhouse
+    #     <br>Mirfield
+    #     <br>WF14 9BP
+    #     <br>West Yorkshire
+    #     <br>
+    #     <strong>Great Britain</strong>
+    #   </p>
+    #   """
     latitude = "-12.043333"
     longitude = "-77.028333"
 
