@@ -1,6 +1,6 @@
 {
   "title" : "Hopton 10k",
-  "description" : "The mixed terrian 10km race, perfect for the adventurous road runner",
+  "description" : "A mixed terrian 10km race, perfect for the adventurous road runner",
   "content" : [
     {
         "icon" : "bell",
@@ -16,7 +16,7 @@
     {
       "icon" : "rocket",
       "title" : "The Course",
-      "description" : "Fairly hilly and mixed terrain. Taking place on quiet roads, bridleways and footpaths. Roughly 40% road, 40% farm track and 20% path."
+      "description" : "Fairly hilly and mixed terrain. Taking place on quiet roads, bridleways and footpaths with roughly 40% road, 40% farm track and 20% footpath."
     }
 
   ]  
