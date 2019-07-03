@@ -1,10 +1,7 @@
 baseURL = "https://hopton10k.run/"
 languageCode = "en-gb"
-title = "Hopton 10k road and trail race, Yorkshire"
-# theme = "sodium"
+title = "Hopton 10k road and trail running race, Mirfield, West Yorkshire"
 theme = "universal"
-
-
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
