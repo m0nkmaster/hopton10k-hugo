@@ -65,9 +65,9 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Rob MacDonald"
+    defaultKeywords = ["hopton10k", "10k", "hopton", "race", "running", "trail"]
+    defaultDescription = "Site for the Hopton 10k run. A mixed terrain road and trail race, in Mirfield, West Yorkshire."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyB37dKVIzGNxWhhJHo_NfoBTLALR3b8SY0"
