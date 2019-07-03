@@ -22,16 +22,16 @@ paginate = 10
     url  = "/"
     weight = 1
 
-# [[menu.main]]
-#     name = "Course"
-#     url  = "/course/"
-#     weight = 2
+[[menu.main]]
+    name = "Route"
+    url  = "/#route"
+    weight = 2
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 1
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
