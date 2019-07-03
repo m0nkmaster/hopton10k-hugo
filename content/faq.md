@@ -20,10 +20,10 @@ If you have entered via our [RaceBest website page](https://racebest.com/races/k
 All runners who have entered the race will be sent a confirmation via email from [RaceBest](https://racebest.com/races/k32qh). To check-in at the race, simply come to the registration desk on the day, tell us your name and we will give you your race number.
 
 ### How do I get there?
-The race starts at [Hopton Primary School](http://www.hoptonprimaryschool.co.uk/), Woodend Road, Mirfield. On your sat nav it's best to use _[Chadwick Lane, WF14 8PN](https://www.google.co.uk/maps/place/Chadwick+Ln,+North+St,+Mirfield+WF14+8PN/@53.6718663,-1.700674,18z/data=!3m1!4b1!4m5!3m4!1s0x487bdf02b97da1ed:0xf78b15dc4d99617d!8m2!3d53.6718647!4d-1.699577)_, this will take you to the entrance to the playground car park.
+The race starts at [Hopton Primary School, 4 Woodend Rd, Mirfield, WF14 8PR](http://www.hoptonprimaryschool.co.uk/), Woodend Road, Mirfield. On your sat nav it's best to use _[Chadwick Lane, WF14 8PN](https://www.google.co.uk/maps/place/Chadwick+Ln,+North+St,+Mirfield+WF14+8PN/@53.6718663,-1.700674,18z/data=!3m1!4b1!4m5!3m4!1s0x487bdf02b97da1ed:0xf78b15dc4d99617d!8m2!3d53.6718647!4d-1.699577)_, this will take you to the entrance to the playground car park.
 
 ### Is there parking available?
-The school playground will be open as a car park and has space for around 50 cars. Set your SatNav to _[Chadwick Lane, WF14 8PN](https://www.google.co.uk/maps/place/Chadwick+Ln,+North+St,+Mirfield+WF14+8PN/@53.6718663,-1.700674,18z/data=!3m1!4b1!4m5!3m4!1s0x487bdf02b97da1ed:0xf78b15dc4d99617d!8m2!3d53.6718647!4d-1.699577)_ 
+The school playground will be open as a car park and has space for around 60 cars. Set your SatNav to _[Chadwick Lane, WF14 8PN](https://www.google.co.uk/maps/place/Chadwick+Ln,+North+St,+Mirfield+WF14+8PN/@53.6718663,-1.700674,18z/data=!3m1!4b1!4m5!3m4!1s0x487bdf02b97da1ed:0xf78b15dc4d99617d!8m2!3d53.6718647!4d-1.699577)_ 
 
 We are also looking for other parking options. However, as with most running races, we'd recommend you avoid bringing a car if at all possible. Please respect our neighbours and don't block any drives or roads if you go for on-street parking. 
 
