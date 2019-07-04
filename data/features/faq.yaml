@@ -1,4 +1,4 @@
 weight: 2
 name: "Have a question?"
 icon: "fa fa-question"
-description: "Check out our <a href="/faq/">FAQ page</a>. Or if you have a specific questions, don't hesitate to <a href='/contact/'>get in touch.</a>"
+description: "Check out our <a href='/faq/'>FAQ page</a>. Or if you have a specific questions, don't hesitate to <a href='/contact/'>get in touch.</a>"
