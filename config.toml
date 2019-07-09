@@ -94,7 +94,7 @@ paginate = 10
     copyright = "Copyright (c) 2019, Hopton 10k."
 
     # Format dates with Go's time formatting
-    date_format = "1st Jan 2019"
+    date_format = "2 Jan 06"
 
     logo = "/images/logos/hoptonlogotext.png"
     logo_small = "/images/logos/hoptonlogotext.png"
