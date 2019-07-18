@@ -1,14 +1,16 @@
 +++
 title = "Volunteers needed"
-date = "2015-06-24T13:50:46+02:00"
-tags = ["volunteer,help,marshal"]
-categories = ["help"]
+date = "2019-06-24"
+tags = ["volunteering"]
 banner = "img/banners/banner-5.jpg"
+summary = "Are you keen to support Hopton Primary but don't want to take on the run? Well, we could always use another volunteer"
 +++
 
 ## Become a volunteer
 
 Love getting up early?
+
+<!--more-->
 
 Like to work for no money?
 
