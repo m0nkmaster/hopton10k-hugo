@@ -48,20 +48,20 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
+    url = "http://facebook.com/hopton10k"
+    pre = "<i class='fab fa-2x fa-facebook-f'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
+    url = "http://twitter.com/hopton10k"
+    pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
     url = "mailto:info@hopton10k.run"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
