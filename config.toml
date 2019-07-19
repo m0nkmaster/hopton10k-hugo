@@ -28,12 +28,6 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 4
-
-[[menu.main]]
     name = "Contact"
     url  = "/contact/"
     weight = 2
@@ -42,6 +36,18 @@ paginate = 10
     name = "Enter Now"
     url  = "https://racebest.com/races/k32qh"
     weight = 3
+
+[[menu.main]]
+    name = "FAQ"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 4
+
+[[menu.main]]
+    name = "Sponsorship"
+    identifier = "sponsor"
+    url  = "/sponsorship/"
+    weight = 5
 
 # Top bar social links menu
 
