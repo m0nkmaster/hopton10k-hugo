@@ -47,4 +47,17 @@ In return for your support in sponsoring the t-shirts, Hopton 10k would provide:
 * Acknowledgement on the day over the race PA system
 * Placement of promotional merchandise or materials in goody bag (provided by sponsor)
 * A shout out on the Hopton 10k race Facebook page/twitter account with a link to your website
-* Mention and thank you in the3 –
+* Mention and thank you in the event recap on website and Facebook
+* 3 x FREE entries to the race.
+
+### Package 4: Race number sponsor (£250) – 3 packages available
+
+In return for your support in sponsoring the race numbers, Hopton 10k would provide:
+
+* Your company logo on the race numbers
+* Your company logo on the Hopton 10k website with a link to your company website
+* Acknowledgement on the day over the race PA system
+* Placement of promotional merchandise or materials in goody bag (provided by sponsor)
+* A shout out on the Hopton 10k race Facebook page/twitter account with a link to your website
+* Mention and thank you in the event recap on website and Facebook
+* 2 x FREE entries to the race.
