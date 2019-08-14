@@ -160,7 +160,7 @@ paginate = 10
     title = "Enter Now"
     subtitle = "Tickets are selling fast, reserve your place now to avoid disappointment."
     link_url = "https://racebest.com/races/k32qh"
-    link_text = "Enter the race"
+    link_text = "Register now"
 
 [params.long_desc]
     enable = true

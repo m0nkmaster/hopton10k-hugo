@@ -7,6 +7,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 There will be more FAQs added to this page over the next few months as questions come up.
 
+### When is the race?
+10 am on Sunday the 6th October 2019. Please try to arrive no later than 20 minutes before the start so you can collect your race number.
+
 ### How old must I be to enter the Hopton 10k?
 You must be 15 years of age to enter the Hopton 10k race.
 
