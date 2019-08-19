@@ -26,7 +26,7 @@ sponsor’s own cost)
 * Primary sponsor mention and thank you in the event recap on website and Facebook
 * 10 x FREE entries to the race.
 
-~~### Package 2: Goody Bag Sponsor (£400) - 1 package available~~
+### ~~Package 2: Goody Bag Sponsor (£400) - 1 package available~~
 
 In return for your support in sponsoring the goody bags, Hopton 10k would provide:
 
