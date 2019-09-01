@@ -8,7 +8,7 @@ keywords = ["sponsor","pay", "donate", "help", "support"]
 
 Are you interested in sponsoring the Hopton 10k? We have various packages available, see the options below. To get in touch and discuss the options in more detail please contact us using the form below.
 
-### Package 1: Platinum Sponsor (£700) – 1 package available
+### Package 1: Platinum Sponsor (£500) – 1 package available
 
 In return for your support as platinum sponsor, Hopton 10k would provide:
 
@@ -26,7 +26,7 @@ sponsor’s own cost)
 * Primary sponsor mention and thank you in the event recap on website and Facebook
 * 10 x FREE entries to the race.
 
-### ~~Package 2: Goody Bag Sponsor (£400) - 1 package available~~
+### ~~Package 2: Goody Bag Sponsor (£400) - 0 packages remaining~~
 
 In return for your support in sponsoring the goody bags, Hopton 10k would provide:
 
@@ -38,7 +38,7 @@ bags (provided by sponsor)
 * Mention and thank you in the event recap on website and Facebook
 * 5 x FREE entries to the race.
 
-### Package 3: T-shirt sponsor (£300) – ~~6~~ 2 packages remaining
+### ~~Package 3: T-shirt sponsor (£250) – 0 packages remaining~~
 
 In return for your support in sponsoring the t-shirts, Hopton 10k would provide:
 
@@ -50,7 +50,7 @@ In return for your support in sponsoring the t-shirts, Hopton 10k would provide:
 * Mention and thank you in the event recap on website and Facebook
 * 3 x FREE entries to the race.
 
-### Package 4: Race number sponsor (£200) – 1 package available
+### Package 4: Race number sponsor (£150) – 1 package available
 
 In return for your support in sponsoring the race numbers, Hopton 10k would provide:
 
@@ -62,7 +62,7 @@ In return for your support in sponsoring the race numbers, Hopton 10k would prov
 * Mention and thank you in the event recap on website and Facebook
 * 2 x FREE entries to the race.
 
-### Package 5: Start/Finish line promotion (£150) - ~~4~~2 packages available
+### Package 5: Start/Finish line promotion (£100) - ~~4~~ 2 packages available
 
 In return for your support in sponsoring the race numbers, Hopton 10k would provide:
 
