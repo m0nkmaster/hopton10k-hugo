@@ -62,7 +62,7 @@ In return for your support in sponsoring the race numbers, Hopton 10k would prov
 * Mention and thank you in the event recap on website and Facebook
 * 2 x FREE entries to the race.
 
-### Package 5: Start/Finish line promotion (£100) - ~~4~~ 2 packages available
+### Package 5: Start/Finish line promotion (£100) - 2 packages remaining
 
 In return for your support in sponsoring the race numbers, Hopton 10k would provide:
 
