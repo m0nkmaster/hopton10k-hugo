@@ -64,7 +64,7 @@ In return for your support in sponsoring the race numbers, Hopton 10k would prov
 
 ### Package 5: Start/Finish line promotion (£100) - 2 packages remaining
 
-In return for your support in sponsoring the race numbers, Hopton 10k would provide:
+In return for your support in sponsoring our start/finish line banner, Hopton 10k would provide:
 
 * Your company logo on one of the banners at the start/finish line 
 * Your company logo on the Hopton 10k website with a link to your company website
