@@ -50,7 +50,7 @@ In return for your support in sponsoring the t-shirts, Hopton 10k would provide:
 * Mention and thank you in the event recap on website and Facebook
 * 3 x FREE entries to the race.
 
-### Package 4: Race number sponsor (£150) – 1 package available
+### ~~Package 4: Race number sponsor (£150) – 0 package available~~
 
 In return for your support in sponsoring the race numbers, Hopton 10k would provide:
 
