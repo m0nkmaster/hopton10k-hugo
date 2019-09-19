@@ -38,16 +38,22 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    name = "Raceday"
+    identifier = "raceday"
+    url  = "/raceday/"
+    weight = 4
+
+[[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Sponsorship"
     identifier = "sponsor"
     url  = "/sponsorship/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
