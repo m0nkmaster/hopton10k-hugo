@@ -15,7 +15,7 @@ The race starts at [Hopton Primary School](https://www.google.com/maps/place/Hop
 Please enter the school grounds through the playground gate on Chackwick Lane. You will not be able to gain access to the school from any other entrance. 
 
 ### Where do I park?
-As the school is in a residential area, we recommend that you park a short walk away on [Hopton New Road](https://goo.gl/maps/ACVWHnRyjD5773LE9) which is just South of Mirfield Train station about 5 minutes walk from the school. This is a straight road which has ample parking for around 70 cars. It is regularly used by rail commuters, but on Sunday morning it should be very quiet.
+As the school is in a residential area, we recommend that you park a short walk away on [Hopton New Road](https://goo.gl/maps/ACVWHnRyjD5773LE9) which is just South of Mirfield Train station, about 5 minutes walk from the school. This is a straight road which has ample parking for around 70 cars. It is regularly used by rail commuters, but on Sunday morning it should be very quiet.
 
 Alternatively we have two designated car parks for runners to use.
 
