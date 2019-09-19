@@ -19,12 +19,12 @@ As the school is in a residential area, we recommend that you park a short walk 
 
 Alternatively we have two designated car parks for runners to use.
 
-A) The school playground (approx 60 spaces) -  Chadwick Lane, Mirfield, WF14 8PN
-B) Lower Hopton Club's car park (approx 20 spaces) - 53 North St, Mirfield, WF14 8PN
+* A) The school playground (approx 60 spaces) -  Chadwick Lane, Mirfield, WF14 8PN
+* B) Lower Hopton Club's car park (approx 20 spaces) - 53 North St, Mirfield, WF14 8PN
 
 We recommend trying [Hopton New Road](https://goo.gl/maps/ACVWHnRyjD5773LE9) first and then heading to the school if there is no space remaining there. 
 
-As with many races, congestion and parking can be a often problem, so if at all possible, please walk, try to car share or consider public transport if you can.
+As with many races, congestion and parking can be a often problem, so if at all possible please avoid driving, try to car share, or consider public transport.
 
 <a href="/images/plans/parking.jpg"><img src="/images/plans/parking.jpg" alt="Parking options" title="Parking options for the Hopton 10k" width="100%" /></a>
 
@@ -63,7 +63,12 @@ There are toilets at Race HQ; two in each mobile classroom plus girls and boys t
 There are no toilets along the course.
 
 ### Will there be photographs?
-The will be a couple of points around the course where photographers will be based. All photos will be available free of charge on the Hopton 10k website a day or two after the race.
+There will be a couple of volunteer photographers at points around the course. All photos will be available free of charge on the Hopton 10k website a day or two after the race.
+
+### Will there be a T-Shirt?
+Yes, all runners will receive a technical T-shirt upon completition. 
+
+As you have already chosen your shirt size when you entered the race, you must take a shirt of that size. a We will have a list of what T-Shirt size you ordered.
 
 ### Will there be a goody bag?
 Yes, all runners will receive a souvenir cotton tote bag with water, a snack and a memento.
