@@ -68,7 +68,9 @@ There will be a couple of volunteer photographers at points around the course. A
 ### Will there be a T-Shirt?
 Yes, all runners will receive a technical T-shirt upon completion of the run. 
 
-As you have already chosen your shirt size when you entered the race, you must take a shirt of that size. We will have a list of what T-Shirt sizes everyone ordered.
+As you have already chosen your shirt size when you entered the race, you will be given a shirt of that size, we will have a list of what T-Shirt sizes everyone ordered. We may be able to give you a different size shirt if there are any left-overs from entrants who haven't turned up.
+
+We will not post any T-shirts out to participants; if you're not there on the day you won't get a shirt.
 
 ### Will there be a goody bag?
 Yes, all runners will receive a souvenir cotton tote bag with water, a snack and a memento.
