@@ -75,8 +75,11 @@ We will not post any T-shirts out to participants; if you're not there on the da
 ### Will there be a goody bag?
 Yes, all runners will receive a souvenir cotton tote bag with water, a snack and a memento.
 
-<!-- ## What are the prizes?
-TBC -->
+## What are the prizes?
+The will be a small prize for the top 3 women and the top 3 men.
 
 ### Where will I be able to see the results?
 The results will be published at [https://racebest.com/results/k32qh](https://racebest.com/results/k32qh) shortly after the race finishes.
+
+### Can I transfer my ticket to someone else?
+There will be no refunds or transfers allowed on race day. If you contact us directly at least 24 hours before the race we may give a refund or allow you to transfer your entry, at our own discretion.
