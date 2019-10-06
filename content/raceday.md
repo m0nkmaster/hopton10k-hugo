@@ -57,6 +57,9 @@ In all seriousness the route can't accomodate buggies.
 ### Can I run with a dog?
 No. Our races are licensed by UK Athletics and under UKA rules, dogs (apart from medical assistance dogs) are not allowed in licensed competitions.
 
+### Can I enter on the day?
+No, I'm afraid we have sold all our tickets and can't take entries on the day of the race.
+
 ### Will there be toilets?
 There are toilets at Race HQ; two in each mobile classroom plus girls and boys toilets in the main school building. The toilets in the main school are slightly smaller than full-size.
 
