@@ -8,7 +8,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 There will be more FAQs added to this page over the next few months as questions come up.
 
 ### When is the race?
-10 am on Sunday the 6th October 2019. Please try to arrive no later than 20 minutes before the start so you can collect your race number.
+10 am on Sunday the 4th October 2020. Please try to arrive no later than 20 minutes before the start so you can collect your race number.
 
 ### How old must I be to enter the Hopton 10k?
 You must be 15 years of age to enter the Hopton 10k race.
@@ -17,10 +17,10 @@ You must be 15 years of age to enter the Hopton 10k race.
 Entries close at midday on Saturday 5th October 2019. 
 
 ### How do I know my entry has been received?
-If you have entered via our [RaceBest website page](https://racebest.com/races/k32qh), you should have received a confirmation email.
+If you have entered via our [RaceBest website page](https://racebest.com/races/42exf), you should have received a confirmation email.
 
 ### What will I recieve before the race?
-All runners who have entered the race will be sent a confirmation via email from [RaceBest](https://racebest.com/races/k32qh). To check-in at the race, simply come to the registration desk on the day, tell us your name and we will give you your race number.
+All runners who have entered the race will be sent a confirmation via email from [RaceBest](https://racebest.com/races/42exf). To check-in at the race, simply come to the registration desk on the day, tell us your name and we will give you your race number.
 
 ### How do I get there?
 The race starts at [Hopton Primary School, 4 Woodend Rd, Mirfield, WF14 8PR](http://www.hoptonprimaryschool.co.uk/), Woodend Road, Mirfield. On your sat nav it's best to use _[Chadwick Lane, WF14 8PN](https://www.google.co.uk/maps/place/Chadwick+Ln,+North+St,+Mirfield+WF14+8PN/@53.6718663,-1.700674,18z/data=!3m1!4b1!4m5!3m4!1s0x487bdf02b97da1ed:0xf78b15dc4d99617d!8m2!3d53.6718647!4d-1.699577)_, this will take you to the entrance to the playground car park.

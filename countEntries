@@ -1,2 +1,2 @@
-echo $(( 300 - $(curl https://racebest.com/races/k32qh -silent | grep -o "places:</dt><dd>\d*" | grep -oE '\d+'))) "tickets sold (of 300)."
+echo $(( 350 - $(curl https://racebest.com/races/42exf -silent | grep -o "places:</dt><dd>\d*" | grep -oE '\d+'))) "tickets sold (of 350)."
 echo $(date)

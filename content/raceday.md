@@ -7,7 +7,7 @@ keywords = ["race","plan", "instructions", "parking"]
 +++
 
 ### When is it?
-The race starts at 10am on Sunday 6th October 2019. 
+The race starts at 10am on Sunday 4th October 2020. 
 
 ### Where is it?
 The race starts at [Hopton Primary School](https://www.google.com/maps/place/Hopton+Primary+School/@53.6721243,-1.6999666,15z/data=!4m5!3m4!1s0x0:0xd7a26f0b1942453a!8m2!3d53.6721243!4d-1.6999666), Mirfield, WF14 8PR. It follows roads through Lower Hopton and then enters the woods before returning to the school.
@@ -82,7 +82,7 @@ Yes, all runners will receive a souvenir cotton tote bag with water, a snack and
 The will be a small prize for the top 3 women and the top 3 men.
 
 ### Where will I be able to see the results?
-The results will be published at [https://racebest.com/results/k32qh](https://racebest.com/results/k32qh) shortly after the race finishes.
+The results will be published at [https://racebest.com/results/42exf](https://racebest.com/results/42exf) shortly after the race finishes.
 
 ### Can I transfer my ticket to someone else?
 There will be no refunds or transfers allowed on race day. If you contact us directly at least 24 hours before the race we may give a refund or allow you to transfer your entry, at our own discretion.
