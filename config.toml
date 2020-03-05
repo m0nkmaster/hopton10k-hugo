@@ -50,10 +50,16 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
+    name = "Sponsorship"
+    identifier = "sponsorship"
+    url  = "/sponsorship/"
+    weight = 6
+
+[[menu.main]]
     name = "Results"
     identifier = "results"
     url  = "/results/"
-    weight = 6
+    weight = 7
 
 # Top bar social links menu
 
