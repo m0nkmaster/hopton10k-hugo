@@ -13,7 +13,7 @@ Are you interested in sponsoring the Hopton 10k? We have various packages availa
 
 In return for your support as platinum sponsor, Hopton 10k would provide:
 
-* Presenting sponsor i.e. "The 2019 Hopton 10k brought to you by (Your Company Name Here)"
+* Presenting sponsor i.e. "The Hopton 10k brought to you by (Your Company Name Here)"
 * Your company logo in priority position and size on the Hopton 10k T-shirt (awarded to all
 runners)
 * Your company logo on the Hopton 10k Start / Finish line banner

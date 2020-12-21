@@ -7,7 +7,7 @@ keywords = ["race","plan", "instructions", "parking"]
 +++
 
 ### When is it?
-The race starts at 10am on Sunday 4th October 2020. 
+Who knows in this crazy COVID-19 world! When it does happen the race starts at 10am. The date is yet to be confirmed. 
 
 ### Where is it?
 The race starts at [Hopton Primary School](https://www.google.com/maps/place/Hopton+Primary+School/@53.6721243,-1.6999666,15z/data=!4m5!3m4!1s0x0:0xd7a26f0b1942453a!8m2!3d53.6721243!4d-1.6999666), Mirfield, WF14 8PR. It follows roads through Lower Hopton and then enters the woods before returning to the school.
@@ -22,7 +22,7 @@ Alternatively we have two designated car parks for runners to use.
 * A) The school playground (approx 60 spaces) -  Chadwick Lane, Mirfield, WF14 8PN
 * B) Lower Hopton Club's car park (approx 20 spaces) - 53 North St, Mirfield, WF14 8PN
 
-We recommend trying [Hopton New Road](https://goo.gl/maps/ACVWHnRyjD5773LE9) first and then heading to the school if there is no space remaining there. 
+We recommend trying [Hopton New Road](https://goo.gl/maps/ACVWHnRyjD5773LE9) first and then heading to the school if there are no spaces remaining there. 
 
 As with many races, congestion and parking can often be a problem, so if at all possible please avoid driving, try to car share, or consider public transport.
 
@@ -44,13 +44,13 @@ The route leaves the school via the playing field gates, heading down Woodend Ro
 ### Will there be water?
 Yes.
 
-There will be a water station at the mid-point of the race, 5km in at the bottom of Ouzelwell Lane, Thornhill. This is just before the steepest climb on the course. There will also be water handed out at the finish.
+There will be a water station at the mid-point of the race, 5km in at the bottom of Ouzelwell Lane, Thornhill Lees. This is just before the steepest climb on the course. There will also be water handed out at the finish.
 
 ### Is there a cut-off time?
 Yes. Marshals will start packing up and vacating their posts at 11:30.
 
 ### Can I run with a buggy?
-I really wouldn't recommend it, I have tried and I won't be doing it again! 
+I really wouldn't recommend it, I have actually tried and I won't be doing it again! 
 
 In all seriousness the route can't accomodate buggies.
 
@@ -58,12 +58,12 @@ In all seriousness the route can't accomodate buggies.
 No. Our races are licensed by UK Athletics and under UKA rules, dogs (apart from medical assistance dogs) are not allowed in licensed competitions.
 
 ### Can I enter on the day?
-No, I'm afraid we have sold all our tickets and can't take entries on the day of the race.
+No, I'm afraid we can't take entries on the day of the race.
 
 ### Will there be toilets?
 There are toilets at Race HQ; two in each mobile classroom plus girls and boys toilets in the main school building. The toilets in the main school are slightly smaller than full-size.
 
-There are no toilets along the course.
+There are no toilets along the route.
 
 ### Will there be photographs?
 There will be a couple of volunteer photographers at points around the course. All photos will be available free of charge on the Hopton 10k website a day or two after the race.
@@ -73,7 +73,7 @@ Yes, all runners will receive a technical T-shirt upon completion of the run.
 
 As you have already chosen your shirt size when you entered the race, you will be given a shirt of that size, we will have a list of what T-Shirt sizes everyone ordered. We may be able to give you a different size shirt if there are any left-overs from entrants who haven't turned up.
 
-We will not post any T-shirts out to participants; if you're not there on the day you won't get a shirt.
+We can not post any T-shirts out to participants; if you're not there on the day you won't get a shirt.
 
 ### Will there be a goody bag?
 Yes, all runners will receive a souvenir cotton tote bag with water, a snack and a memento.
@@ -82,7 +82,7 @@ Yes, all runners will receive a souvenir cotton tote bag with water, a snack and
 The will be a small prize for the top 3 women and the top 3 men.
 
 ### Where will I be able to see the results?
-The results will be published at [https://racebest.com/results/42exf](https://racebest.com/results/42exf) shortly after the race finishes.
+The results will be published on [https://racebest.com/results/](https://racebest.com/results/) shortly after the race finishes.
 
 ### Can I transfer my ticket to someone else?
-There will be no refunds or transfers allowed on race day. If you contact us directly at least 24 hours before the race we may give a refund or allow you to transfer your entry, at our own discretion.
+There will be no refunds or transfers allowed on race day. If you contact us directly at least 24 hours before the race we may give a refund or allow you to transfer your entry, at our own discretion. Refunds are subject to a £2 admin charge.
