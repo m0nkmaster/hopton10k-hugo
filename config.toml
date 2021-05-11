@@ -109,7 +109,7 @@ paginate = 10
     email = "info@hopton10k.run"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2020, Hopton 10k. UK Athletics Race License <a href='https://www.runbritain.com/Handlers/EventCertificate.ashx?id=7cbc09c15e62'>2019-38710</a>."
+    copyright = "Copyright (c) 2020, Hopton 10k. UK Athletics Race License <a href='https://www.runbritain.com/Handlers/EventCertificate.ashx?id=7eb408c8595d'>2021-41692</a>."
 
     # Format dates with Go's time formatting
     date_format = "2 Jan 06"
